@@ -62,3 +62,4 @@ Incorporación al equipo de ingeniería (Core/R&D) contribuyendo al desarrollo d
 
 * 📧 **Email:** [darioortegaleyva@gmail.com](mailto:darioortegaleyva@gmail.com)
 * 💼 **LinkedIn:** [Darío Ortega Leyva](https://www.linkedin.com/in/darioortegaleyva/)
+ 
