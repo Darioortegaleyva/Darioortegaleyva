@@ -52,8 +52,8 @@ Incorporación al equipo de ingeniería (Core/R&D) contribuyendo al desarrollo d
 ### 📊 Mis Estadísticas y Lenguajes
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Darioortegaleyva&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Darío" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darioortegaleyva&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html" alt="Lenguajes más usados" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darioortegaleyva&theme=tokyonight" height="150" alt="Estadísticas de Darío" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darioortegaleyva&theme=tokyonight" height="150" alt="Lenguajes más usados" />
 </p>
 
 ---
