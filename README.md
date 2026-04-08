@@ -25,7 +25,6 @@ Incorporación al equipo de ingeniería (Core/R&D) contribuyendo al desarrollo d
 
 * 🎓 Estudiando **Ingeniería Informática** en la UGR (2023 - 2026).
 * 🌱 Profundizando en: **Estructuras de Datos, POO, Seguridad Informática y Visión por Computador con Python**.
-* 💬 Pregúntame sobre: **C/C++, arquitecturas Linux, SQL o desarrollo backend.**
 * ⚡ Soft Skills: Comunicación asertiva, gran capacidad de adaptación y trabajo en equipo.
 
 ---
