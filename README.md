@@ -10,7 +10,7 @@ Actualmente centrado en el desarrollo en **C/C++**, optimización de recursos y 
 
 ### 💼 Experiencia Laboral
 
-**🛡️ Security Engineer Intern @ [Wazuh](https://wazuh.com/)**
+**🛡️ Security Engineer @ [Wazuh](https://wazuh.com/)**
 *Enero 2026 - Actualidad | Remoto*
 
 Incorporación al equipo de ingeniería (Core/R&D) contribuyendo al desarrollo de la plataforma XDR y SIEM Open Source líder en el sector.
