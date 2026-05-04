@@ -1,6 +1,6 @@
 # ¡Hola! Soy Darío Ortega Leyva 👋
 
-### 👨‍💻 Security Engineer Intern en Wazuh | Estudiante de Ingeniería Informática
+### 👨‍💻 Security Engineer en Wazuh | Estudiante de Ingeniería Informática
 
 Soy un estudiante de Ingeniería Informática en la **Universidad de Granada (UGR)** y actualmente formo parte del equipo de Core/R&D en **Wazuh**. Me apasiona el desarrollo de sistemas de bajo nivel, la ciberseguridad y la resolución de problemas complejos.
 
