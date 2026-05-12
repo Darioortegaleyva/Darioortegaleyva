@@ -1,4 +1,4 @@
-# ¡Hola! Soy Darío Ortega Leyva 👋
+# ¡Hola! Soy Darío Ortega Leyva
 
 ### 👨‍💻 Security Engineer en Wazuh | Estudiante de Ingeniería Informática
 
