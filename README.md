@@ -31,6 +31,11 @@ Incorporación al equipo de ingeniería (Core/R&D) contribuyendo al desarrollo d
 
 ### 🏆 Logros y Hackathons
 
+### 🏆 Logros y Hackathons
+
+[` Wazuh `](https://wazuh.com) [` Security Remediation Developer `](https://github.com)
+
+* 🛡️ **GitHub Security Advisory Contributor (Wazuh):** Reconocido oficialmente en la base de datos de seguridad de GitHub por el diseño, desarrollo e implementación de soluciones técnicas para mitigar múltiples vulnerabilidades en el ecosistema Open Source de Wazuh.
 * 🥉 **3er Puesto y Pase Nacional en HackForGood (Telefónica):** Desarrollo de una aplicación comparadora de precios.
 * 💡 **Participante en Ideas Factory (UGR):** Co-creador de *Kyma*, una app-consultoría diseñada para medir y reducir el burnout laboral.
 
