@@ -1,10 +1,10 @@
-# ¡Hola! Soy Darío Ortega Leyva
+# ¡Hola! Soy Darío Ortega Leyva 👋
 
-### 👨‍💻 Security Engineer en Wazuh | Estudiante de Ingeniería Informática
+### 👨‍💻 Security Engineer en Wazuh | Graduado en Ingeniería Informática
 
-Soy un estudiante de Ingeniería Informática en la **Universidad de Granada (UGR)** y actualmente formo parte del equipo de Core/R&D en **Wazuh**. Me apasiona el desarrollo de sistemas de bajo nivel, la ciberseguridad y la resolución de problemas complejos.
+Soy **Graduado en Ingeniería Informática** por la **Universidad de Granada (UGR)** y actualmente formo parte del equipo de Core/R&D en **Wazuh**. Me apasiona el desarrollo de sistemas de bajo nivel, la ciberseguridad, la ingeniería inversa y la resolución de problemas complejos.
 
-Actualmente centrado en el desarrollo en **C/C++**, optimización de recursos y despliegue en entornos **Linux/Unix**.
+Especializado en el desarrollo eficiente con **C/C++**, optimización de recursos críticos del sistema y despliegue en entornos corporativos **Linux/Unix**.
 
 ---
 
@@ -13,30 +13,26 @@ Actualmente centrado en el desarrollo en **C/C++**, optimización de recursos y 
 **🛡️ Security Engineer @ [Wazuh](https://wazuh.com/)**
 *Enero 2026 - Actualidad | Remoto*
 
-Incorporación al equipo de ingeniería (Core/R&D) contribuyendo al desarrollo de la plataforma XDR y SIEM Open Source líder en el sector.
-* 🚀 **Desarrollo Core:** Creación de sistemas y nuevos módulos utilizando **C++ y C**.
-* 🛠️ **Sistemas:** Instalación, despliegue y gestión de agentes en entornos **Linux / Unix**.
-* 🔍 **Threat Hunting:** Investigación y creación de reglas de detección de amenazas y decodificadores.
-* 💻 **Metodología:** Uso avanzado de Git, gestión de memoria y optimización de recursos del sistema.
+Miembro del equipo de ingeniería (Core/R&D), contribuyendo activamente al desarrollo de la plataforma XDR y SIEM Open Source líder en el sector.
+* 🚀 **Desarrollo Core:** Diseño y creación de sistemas internos y nuevos módulos utilizando **C++ y C**.
+* 🛠️ **Sistemas:** Instalación, despliegue y gestión de agentes en entornos de producción **Linux / Unix**.
+* 🔍 **Threat Hunting:** Investigación avanzada de amenazas y desarrollo de reglas de detección y decodificadores.
+* 💻 **Metodología y Rendimiento:** Gestión avanzada de memoria, optimización de recursos y control de versiones con Git.
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 Áreas de Interés y Enfoque
 
-* 🎓 Estudiando **Ingeniería Informática** en la UGR (2023 - 2026).
-* 🌱 Profundizando en: **Estructuras de Datos, POO, Seguridad Informática y Visión por Computador con Python**.
-* ⚡ Soft Skills: Comunicación asertiva, gran capacidad de adaptación y trabajo en equipo.
+* 🧠 **Sistemas de Bajo Nivel:** Desarrollo eficiente, gestión de hilos, concurrencia y optimización en C/C++.
+* 🌱 **Seguridad Ofensiva/Defensiva:** Análisis de vulnerabilidades, mitigación de exploits y securización de sistemas.
+* ⚡ **Arquitectura de Software:** Diseño de software robusto, mantenible y escalable orientado a la seguridad informática.
 
 ---
 
-### 🏆 Logros y Hackathons
-
-### 🏆 Logros y Hackathons
-
- [` Wazuh `](https://wazuh.com) [` Security Remediation Developer `](https://github.com)
+### 🏆 Logros y Reconocimientos
 
 * 🛡️ **GitHub Security Advisory Contributor (Wazuh):** Reconocido oficialmente en la base de datos de seguridad de GitHub por el diseño, desarrollo e implementación de soluciones técnicas para mitigar múltiples vulnerabilidades en el ecosistema Open Source de Wazuh.
-* 🥉 **3er Puesto y Pase Nacional en HackForGood (Telefónica):** Desarrollo de una aplicación comparadora de precios.
+* 🥉 **3er Puesto y Pase Nacional en HackForGood (Telefónica):** Desarrollo backend de una aplicación comparadora de precios.
 * 💡 **Participante en Ideas Factory (UGR):** Co-creador de *Kyma*, una app-consultoría diseñada para medir y reducir el burnout laboral.
 
 ---
@@ -64,4 +60,3 @@ Incorporación al equipo de ingeniería (Core/R&D) contribuyendo al desarrollo d
 
 * 📧 **Email:** [darioortegaleyva@gmail.com](mailto:darioortegaleyva@gmail.com)
 * 💼 **LinkedIn:** [Darío Ortega Leyva](https://www.linkedin.com/in/darioortegaleyva/)
- 
