@@ -14,7 +14,7 @@ Especializado en el desarrollo eficiente con **C/C++**, optimización de recurso
 *Enero 2026 - Actualidad | Remoto*
 
 Miembro del equipo de ingeniería (Core/R&D), contribuyendo activamente al desarrollo de la plataforma XDR y SIEM Open Source líder en el sector.
-* 🚀 **Desarrollo Core:** Diseño y creación de sistemas internos y nuevos módulos utilizando **C++ y C**.
+* 🚀 **Desarrollo Core:** Diseño y creación de sistemas internos y nuevos módulos utilizando **C++** y **C**.
 * 🛠️ **Sistemas:** Instalación, despliegue y gestión de agentes en entornos de producción **Linux / Unix**.
 * 🔍 **Threat Hunting:** Investigación avanzada de amenazas y desarrollo de reglas de detección y decodificadores.
 * 💻 **Metodología y Rendimiento:** Gestión avanzada de memoria, optimización de recursos y control de versiones con Git.
